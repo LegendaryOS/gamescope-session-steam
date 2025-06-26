@@ -4,4 +4,4 @@
 
 
 #Instalacja Gamescope
-mv 
+mv /tmp/gamescope-session-steam/gamescope/ /home/(user name)/.hackeros/
