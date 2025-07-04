@@ -11,4 +11,5 @@ mv "$SOURCE"/* "$DEST"/
 
 #Install Gamescope Session Steam
 mv /tmp/gamescope-session-steam/usr/bin/steamos-update /usr/bin/
-mv /tmp/gamescope-session-steam/usr/bin/
+mv /tmp/gamescope-session-steam/usr/bin/steamos-session-select /usr/bin/
+mv /tmp/gamescope-session-steam/usr/bin/ /usr/bin
