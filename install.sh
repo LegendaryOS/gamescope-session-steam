@@ -13,4 +13,5 @@ mv "$SOURCE"/* "$DEST"/
 mv /tmp/gamescope-session-steam/usr/bin/steamos-update /usr/bin/
 mv /tmp/gamescope-session-steam/usr/bin/steamos-session-select /usr/bin/
 mv /tmp/gamescope-session-steam/usr/bin/steamos-select-branch /usr/bin/
+mv /tmp/gamescope-session-steam/usr/bin/steam-http-loader/ /usr/bin/
 mv /tmp/gamescope-session-steam/usr/bin/ /usr/bin/
