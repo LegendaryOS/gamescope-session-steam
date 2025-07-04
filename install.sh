@@ -10,8 +10,9 @@ DEST="$USER_HOME/.hackeros"
 mv "$SOURCE"/* "$DEST"/
 
 #Install Gamescope Session Steam
-mv /tmp/gamescope-session-steam/usr/bin/steamos-update /usr/bin/
-mv /tmp/gamescope-session-steam/usr/bin/steamos-session-select /usr/bin/
-mv /tmp/gamescope-session-steam/usr/bin/steamos-select-branch /usr/bin/
+mv /tmp/gamescope-session-steam/usr/bin/steamos-update/ /usr/bin/
+mv /tmp/gamescope-session-steam/usr/bin/steamos-session-select/ /usr/bin/
+mv /tmp/gamescope-session-steam/usr/bin/steamos-select-branch/ /usr/bin/
 mv /tmp/gamescope-session-steam/usr/bin/steam-http-loader/ /usr/bin/
-mv /tmp/gamescope-session-steam/usr/bin/jupiter-biosupdater/ /usr/bin/
+mv /tmp/gamescope-session-steam/usr/bin/jupiter-biosupdate/ /usr/bin/
+mv /tmp/gamescope-session-steam/usr/bin/ /usr/bin/
