@@ -21,4 +21,7 @@ mv /tmp/gamescope-session-steam/usr/share/wayland-sessions/gamescope-session-ste
 mv /tmp/gamescope-session-steam/usr/share/applications/gamescope-mimeapps.list /usr/share/applications/
 mv /tmp/gamescope-session-steam/usr/share/applications/steam_http_loader.desktop /usr/share/applications/
 mv /tmp/gamescope-session-steam/usr/share/polkit-1/actions/org.chimeraos.update.policy /usr/share/polkit-1/actions/
-mv /tmp/gamescope-session-steam/usr/share/
+mv /tmp/gamescope-session-steam/usr/share/gamescope-session-plus/ /usr/share/
+
+#end
+exit
