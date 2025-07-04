@@ -16,4 +16,4 @@ mv /tmp/gamescope-session-steam/usr/bin/steamos-select-branch/ /usr/bin/
 mv /tmp/gamescope-session-steam/usr/bin/steam-http-loader/ /usr/bin/
 mv /tmp/gamescope-session-steam/usr/bin/jupiter-biosupdate/ /usr/bin/
 mv /tmp/gamescope-session-steam/usr/bin/steamos-polkit-helpers/ /usr/bin/
-mv /tmp/gamescope-session-steam/usr/
+mv /tmp/gamescope-session-steam/usr/share/wayland-sessions/ /usr/share/wayland-sessions/
