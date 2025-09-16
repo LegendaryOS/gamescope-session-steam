@@ -1,1 +1,4 @@
+[submodule "gamescope"]
+	path = gamescope
+	url = https://github.com/ValveSoftware/gamescope
 
