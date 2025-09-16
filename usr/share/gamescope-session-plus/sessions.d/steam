@@ -1,7 +1,7 @@
 #!/bin/bash
 
 USER_HOME="$HOME"
-GAMESCOPE_BIN="$USER_HOME/.gamescope/bin"
+GAMESCOPE_BIN="/usr/games/gamescope"
 
 export PATH="$GAMESCOPE_BIN:$PATH"
 
